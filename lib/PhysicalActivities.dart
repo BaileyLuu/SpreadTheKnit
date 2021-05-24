@@ -157,7 +157,7 @@ class _PhysicalActivitiesState extends State<PhysicalActivities> {
         ],
       ),
       appBar: AppBar(
-        title: Text("Knitting Styles"),
+        title: Text("Physical Activities"),
         // foregroundColor: Colors.red,
         centerTitle: true,
         backgroundColor: Colors.lightBlueAccent,
